@@ -1,3 +1,7 @@
+# Gameplay
+
+---
+
 * Each trick exceeding six scores:
 
   * Notrumps: 10 points
@@ -12,9 +16,19 @@
 
 * Small slam is worth 50 points (12 tricks); Grand slam is worth 100 points (Full Rubber).
 
-* Honours are scored as follows:
+
+# Honours
+
+---
 
 * For any suite 10 to Ace will be treated as Honours and Aces for Notrumps.
 
-* Among the bidder hands who hold more than three Honours card, will count as 20 each. Otherwise it will value 10 each. For Notrumps equally distributed
+* Who hold more than three Honours card, will count as 20 each. Otherwise it will value 10 each. For Notrumps equally distributed
   Honours will be treated as tie.
+
+
+# Total
+
+---
+
+* Each round will total gameplay and honours points.
